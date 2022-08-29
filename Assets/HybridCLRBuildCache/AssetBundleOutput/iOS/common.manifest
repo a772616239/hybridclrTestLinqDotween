@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1570335886
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed96a7f1ddd0ac4b876cbe25a0b14cf7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5791d6c36b615df0b8b20432f3a9c462
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e25d6ed3a77268d4db84bdf9758d64c1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/HybridCLRBuildCache/AssetBundleSourceData/iOS/mscorlib.dll.bytes
+- Assets/HybridCLRBuildCache/AssetBundleSourceData/iOS/HotFix.dll.bytes
+- Assets/HybridCLRBuildCache/AssetBundleSourceData/iOS/System.Core.dll.bytes
+- Assets/HybridCLRBuildCache/AssetBundleSourceData/iOS/System.dll.bytes
+- Assets/Prefabs/HotUpdatePrefab.prefab
+- Assets/HybridCLRBuildCache/AssetBundleSourceData/iOS/HotFix2.dll.bytes
+Dependencies: []
